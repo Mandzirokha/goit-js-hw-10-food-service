@@ -15,4 +15,4 @@ const e={LIGHT:"light-theme",DARK:"dark-theme"},t=document.body.classList,c=docu
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/menu"),require("./js/change-theme");
 },{"./sass/main.scss":"clu1","./js/menu":"i0CD","./js/change-theme":"yj0S"}]},{},["Focm"], null)
-//# sourceMappingURL=/parcel-project-template/src.9f24c048.js.map
+//# sourceMappingURL=/goit-js-hw-10-food-service/src.9f24c048.js.map
